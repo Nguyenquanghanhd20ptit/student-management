@@ -1,0 +1,35 @@
+.formEdit {
+
+    width: 550px;
+    margin-left: 200px;
+
+}
+.navtable{
+	 display: inline-flex;
+    justify-content: space-between;
+    
+}
+.searchtable{
+	right:-170px;
+}
+.searchtable-icon{
+	background-color: #7ee3c7;
+}
+.input-select{
+	  border-radius: 40px 0px 0px 40px;
+	  font-weight: 300;
+}
+.navtable-sort{
+	left: 0px;
+    display: inline-grid;
+	
+}
+.navtable-sort-colum{
+	 height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    font-weight: 300;
+}
+.Pagination_table{
+	    margin-left: 80%;
+}
